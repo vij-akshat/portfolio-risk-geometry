@@ -8,4 +8,4 @@ Given two assets with:
 - Correlation $\rho$
 - Portfolio weights $w$
 
-Portfolio variance is: $\sigma^{2}_{p} = w^{2}\sigma^{2}_{1} + (1 - w)^{2}\sigma^{2}_{2} + 2w(1-w)\rho \sigma_{1} \sigma_{2}$
+Portfolio variance is: $$ \sigma^{2}_{p} = w^{2} \sigma^{2}_{1} + (1 - w)^{2} \sigma^{2}_{2} + 2w(1-w) \rho \sigma_{1} \sigma_{2}$$
